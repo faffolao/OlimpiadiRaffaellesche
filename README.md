@@ -15,6 +15,7 @@ E' possibile installare questa piattaforma nel proprio server (o in generale in 
  - Apache2 (il web server);
  - PHP7 (ad esempio 7.3 o 7.4);
  - MySQL versione 5.7 (è consigliata questa versione per poter eseguire anche la versione di PhpMyAdmin integrata nelle repository di Debian, la versione 4.6.6; tuttavia se si usa una versione differente è possibile selezionare la versione di MySQL che più si desidera).
+ - Certbot e Let's Encrypt, per la certificazione SSL del server che contiene la piattaforma.
 
 ### Per installare i pacchetti in Linux:
 
@@ -29,6 +30,6 @@ E' possibile installare questa piattaforma nel proprio server (o in generale in 
 
 Per altre distribuzioni fare riferimento alla guida della propria distribuzione.
 
-Riguardo all'installazione di MySQL riferirsi alla [guida di installazione ufficiale di MySQL](https://dev.mysql.com/doc/refman/8.0/en/linux-installation.html).
+Riguardo all'installazione di MySQL e dei certificati SSL di Let's Encrypt riferirsi alla [guida di installazione ufficiale di MySQL](https://dev.mysql.com/doc/refman/8.0/en/linux-installation.html) e alla [guida di installazione dei certificati di Let's Encrypt con Certbot](https://certbot.eff.org/instructions).
 ## Autori
 Federico Arduini, Rocco Nori, Christian Chiuselli, Martin Berardi, Filippo Sani, Lorenzo Annibalini, della classe 5AIN dell'Istituto Tecnico Industriale Statale "Enrico Mattei" di Urbino - PU
