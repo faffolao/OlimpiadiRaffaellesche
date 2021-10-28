@@ -1,0 +1,2 @@
+[18-Apr-2020 18:57:07 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/impostazioni_quiz/index.php on line 128
+[18-Apr-2020 19:22:06 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/impostazioni_quiz/index.php on line 128

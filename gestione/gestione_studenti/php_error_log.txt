@@ -1,0 +1,31 @@
+[13-Feb-2020 21:48:25 Europe/Berlin] PHP Notice:  Undefined variable: conn in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 71
+[13-Feb-2020 21:48:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /var/www/html/gestione/gestione_studenti/action_importStudent.php:71
+Stack trace:
+#0 /var/www/html/gestione/gestione_studenti/action_importStudent.php(59): inserisciSuDatabase('test', 'test', 'test@test', 'test2@test2', 'ciaone', 'luigi')
+#1 /var/www/html/gestione/gestione_studenti/action_importStudent.php(34): letturaFile('test.csv')
+#2 {main}
+  thrown in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 71
+[13-Feb-2020 21:50:33 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function letturaFile(), 1 passed in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 33 and exactly 2 expected in /var/www/html/gestione/gestione_studenti/action_importStudent.php:48
+Stack trace:
+#0 /var/www/html/gestione/gestione_studenti/action_importStudent.php(33): letturaFile('test.csv')
+#1 {main}
+  thrown in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 48
+[14-Feb-2020 19:11:49 Europe/Berlin] PHP Notice:  Undefined variable: length in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 130
+[14-Feb-2020 19:11:49 Europe/Berlin] PHP Notice:  Undefined variable: length in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 130
+[14-Feb-2020 19:21:02 Europe/Berlin] PHP Notice:  Undefined index: csvfile in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 49
+[15-Feb-2020 08:47:44 Europe/Berlin] PHP Notice:  Undefined offset: 1 in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 94
+[15-Feb-2020 08:47:44 Europe/Berlin] PHP Notice:  Undefined offset: 2 in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 95
+[15-Feb-2020 08:47:44 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 96
+[15-Feb-2020 08:47:44 Europe/Berlin] PHP Notice:  Undefined offset: 4 in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 97
+[15-Feb-2020 08:51:12 Europe/Berlin] PHP Notice:  Undefined offset: 1 in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 94
+[15-Feb-2020 08:51:12 Europe/Berlin] PHP Notice:  Undefined offset: 2 in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 95
+[15-Feb-2020 08:51:12 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 96
+[15-Feb-2020 08:51:12 Europe/Berlin] PHP Notice:  Undefined offset: 4 in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 97
+[16-Feb-2020 11:40:04 Europe/Berlin] PHP Notice:  Undefined offset: 1 in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 94
+[16-Feb-2020 11:40:04 Europe/Berlin] PHP Notice:  Undefined offset: 2 in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 95
+[16-Feb-2020 11:40:04 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 96
+[16-Feb-2020 11:40:04 Europe/Berlin] PHP Notice:  Undefined offset: 4 in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 97
+[16-Feb-2020 11:40:04 Europe/Berlin] PHP Notice:  Undefined offset: 1 in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 94
+[16-Feb-2020 11:40:04 Europe/Berlin] PHP Notice:  Undefined offset: 2 in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 95
+[16-Feb-2020 11:40:04 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 96
+[16-Feb-2020 11:40:04 Europe/Berlin] PHP Notice:  Undefined offset: 4 in /var/www/html/gestione/gestione_studenti/action_importStudent.php on line 97

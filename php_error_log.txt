@@ -1,0 +1,687 @@
+[03-Feb-2020 13:27:01 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[03-Feb-2020 13:40:35 UTC] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[03-Feb-2020 16:34:43 UTC] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[03-Feb-2020 18:54:08 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[03-Feb-2020 18:54:16 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[03-Feb-2020 18:58:54 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[03-Feb-2020 19:46:27 UTC] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[03-Feb-2020 19:48:55 UTC] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[04-Feb-2020 10:16:49 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 10:39:50 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 11:09:58 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 11:32:18 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 11:32:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 11:42:54 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 11:43:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 12:10:13 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 12:15:45 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 12:18:08 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 12:18:41 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 12:40:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 13:10:43 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 14:40:55 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 16:11:35 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 16:15:30 UTC] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[04-Feb-2020 16:17:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 18:24:12 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 18:24:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 18:24:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 18:24:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 18:24:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 18:24:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 18:24:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 18:24:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 18:24:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 18:24:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 18:24:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 18:24:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 18:24:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 18:24:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 18:24:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 18:38:14 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 18:38:48 UTC] PHP Warning:  file_get_contents(../../log.json): failed to open stream: No such file or directory in /var/www/html/logger.php on line 10
+[04-Feb-2020 18:38:48 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:41:21 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 18:41:33 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:42:36 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:43:05 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:43:15 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:43:55 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:44:35 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:44:45 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:45:00 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:45:12 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:45:24 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:45:54 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:46:18 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:46:28 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:46:55 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:47:11 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:48:10 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:48:21 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:48:31 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:48:40 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:48:55 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:49:05 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 18:49:06 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:50:54 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:51:11 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:51:42 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:51:54 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:53:05 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 18:53:23 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 18
+[04-Feb-2020 19:56:10 Europe/Rome] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 19
+[04-Feb-2020 19:56:29 Europe/Rome] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[04-Feb-2020 19:56:46 Europe/Rome] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 19
+[04-Feb-2020 19:57:23 Europe/Rome] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 19
+[04-Feb-2020 19:58:55 Europe/Rome] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 19
+[04-Feb-2020 19:59:11 Europe/Rome] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 19
+[04-Feb-2020 19:59:20 Europe/Rome] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 19
+[04-Feb-2020 19:59:57 Europe/Rome] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 19
+[04-Feb-2020 20:00:38 Europe/Rome] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 20:01:54 Europe/Rome] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 19:09:34 UTC] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[04-Feb-2020 19:09:44 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 19:10:04 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 19:11:04 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 19:11:25 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 19:11:54 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 19:12:39 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 19:13:12 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 19:13:31 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 19:14:03 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 19:14:18 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 19:17:52 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 19:19:56 UTC] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[04-Feb-2020 19:25:34 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 19:25:56 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 19:26:19 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 19:27:46 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 19:27:58 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 19:32:30 UTC] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[04-Feb-2020 20:44:36 Europe/Rome] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[04-Feb-2020 20:59:02 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 21:05:23 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 21:32:20 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 21:36:41 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 21:37:33 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 21:37:41 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 21:48:39 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[04-Feb-2020 21:48:55 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[05-Feb-2020 07:53:06 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[05-Feb-2020 13:01:27 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[05-Feb-2020 13:05:27 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[05-Feb-2020 17:31:26 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[05-Feb-2020 18:31:58 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[05-Feb-2020 18:38:13 Europe/Rome] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[05-Feb-2020 19:56:57 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[05-Feb-2020 19:57:03 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[05-Feb-2020 20:05:58 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[05-Feb-2020 21:10:10 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[05-Feb-2020 21:58:38 Europe/Rome] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[06-Feb-2020 10:18:01 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[06-Feb-2020 10:18:57 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[06-Feb-2020 10:31:36 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[06-Feb-2020 10:31:36 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[06-Feb-2020 10:33:26 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[06-Feb-2020 10:33:26 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[06-Feb-2020 10:36:39 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[06-Feb-2020 10:36:39 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[06-Feb-2020 10:39:46 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[06-Feb-2020 10:39:46 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[06-Feb-2020 10:51:27 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[06-Feb-2020 10:51:27 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[06-Feb-2020 11:43:32 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[06-Feb-2020 13:17:00 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[06-Feb-2020 13:18:17 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[06-Feb-2020 13:18:17 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[06-Feb-2020 13:18:52 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[06-Feb-2020 13:18:52 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[06-Feb-2020 13:39:09 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[06-Feb-2020 13:39:09 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[06-Feb-2020 13:42:40 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[06-Feb-2020 13:42:40 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[06-Feb-2020 13:43:24 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[06-Feb-2020 13:43:24 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[06-Feb-2020 13:44:27 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[06-Feb-2020 13:44:27 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[06-Feb-2020 13:46:06 Europe/Berlin] PHP Notice:  Undefined index: r1 in /var/www/html/gestione/gestione_domande/action_addQuestion.php on line 11
+[06-Feb-2020 13:46:06 Europe/Berlin] PHP Notice:  Undefined index: r2 in /var/www/html/gestione/gestione_domande/action_addQuestion.php on line 12
+[06-Feb-2020 13:46:06 Europe/Berlin] PHP Notice:  Undefined index: r3 in /var/www/html/gestione/gestione_domande/action_addQuestion.php on line 13
+[06-Feb-2020 13:46:06 Europe/Berlin] PHP Notice:  Undefined index: r4 in /var/www/html/gestione/gestione_domande/action_addQuestion.php on line 14
+[06-Feb-2020 13:46:06 Europe/Berlin] PHP Notice:  Undefined index: resatta in /var/www/html/gestione/gestione_domande/action_addQuestion.php on line 15
+[06-Feb-2020 13:46:57 Europe/Berlin] PHP Notice:  Undefined variable: die in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 25
+[06-Feb-2020 13:46:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php:25
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 25
+[06-Feb-2020 13:46:59 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/): Is a directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[06-Feb-2020 13:51:48 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[06-Feb-2020 13:51:48 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[06-Feb-2020 13:52:07 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[06-Feb-2020 13:52:07 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[06-Feb-2020 16:51:47 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[06-Feb-2020 16:59:51 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[06-Feb-2020 17:04:33 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[06-Feb-2020 17:05:38 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[06-Feb-2020 17:25:45 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[06-Feb-2020 18:49:07 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[06-Feb-2020 18:50:12 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[06-Feb-2020 18:50:12 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[06-Feb-2020 18:50:12 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[06-Feb-2020 18:50:12 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[08-Feb-2020 08:32:47 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 08:33:47 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 08:39:17 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[08-Feb-2020 08:39:17 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[08-Feb-2020 08:39:17 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[08-Feb-2020 08:39:17 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[08-Feb-2020 08:39:41 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[08-Feb-2020 08:39:41 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[08-Feb-2020 08:39:41 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[08-Feb-2020 08:39:41 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[08-Feb-2020 08:40:23 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[08-Feb-2020 09:03:28 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 09:28:42 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 09:33:55 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 09:35:15 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 09:37:40 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 09:39:39 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 09:40:29 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 09:44:03 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[08-Feb-2020 09:45:41 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[08-Feb-2020 09:46:33 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[08-Feb-2020 09:46:56 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[08-Feb-2020 09:50:13 Europe/Berlin] PHP Notice:  Undefined index: fileToUpload in /var/www/html/gestione/gestione_domande/action_editQuestion.php on line 64
+[08-Feb-2020 09:50:13 Europe/Berlin] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /var/www/html/gestione/gestione_domande/action_editQuestion.php on line 85
+[08-Feb-2020 09:50:13 Europe/Berlin] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /var/www/html/gestione/gestione_domande/action_editQuestion.php on line 86
+[08-Feb-2020 09:50:36 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/gantt.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:52:26 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/gantt.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:52:35 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/gantt.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:52:45 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/Relazione progetto 2.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:52:48 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 09:52:51 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/Schermata 2020-02-06 alle 10.28.14.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:53:00 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/gantt.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:53:15 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/gantt.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:53:18 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/gantt.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:53:20 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/Schermata 2020-02-06 alle 10.28.14.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:53:28 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/gantt.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:54:25 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/gantt.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:54:31 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/gantt.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:55:44 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/gantt.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:56:49 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/gantt.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:56:52 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/gantt.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:56:56 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/Relazione progetto 2.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:56:57 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/Schermata 2020-02-06 alle 10.28.14.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:58:07 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/gantt.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 09:58:49 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 10:00:18 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[08-Feb-2020 10:00:18 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[08-Feb-2020 10:02:18 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[08-Feb-2020 10:02:18 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[08-Feb-2020 10:02:21 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[08-Feb-2020 10:02:21 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[08-Feb-2020 10:02:21 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[08-Feb-2020 10:02:21 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[08-Feb-2020 10:02:27 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/gestione Quiz secodo burani.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 10:02:31 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/gestione Quiz secodo burani.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 10:02:36 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/gestione Quiz secodo burani.png): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 10:03:08 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 10:03:29 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 10:03:45 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 10:03:45 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[08-Feb-2020 10:03:45 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[08-Feb-2020 10:04:02 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[08-Feb-2020 10:04:02 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[08-Feb-2020 10:08:01 Europe/Berlin] PHP Notice:  Undefined index: fileToUpload in /var/www/html/gestione/gestione_domande/action_editQuestion.php on line 64
+[08-Feb-2020 10:08:01 Europe/Berlin] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /var/www/html/gestione/gestione_domande/action_editQuestion.php on line 85
+[08-Feb-2020 10:08:01 Europe/Berlin] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /var/www/html/gestione/gestione_domande/action_editQuestion.php on line 86
+[08-Feb-2020 10:08:45 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/093357317-4a53d220-09ae-49b3-8fb6-a911a62718c4.jpg): No such file or directory in /var/www/html/gestione/gestione_domande/action_editQuestion.php on line 26
+[08-Feb-2020 10:08:52 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/093357317-4a53d220-09ae-49b3-8fb6-a911a62718c4.jpg): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[08-Feb-2020 10:09:58 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[08-Feb-2020 10:09:58 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[08-Feb-2020 10:09:58 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[08-Feb-2020 10:09:58 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[08-Feb-2020 10:10:13 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[08-Feb-2020 10:10:13 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[08-Feb-2020 10:10:27 Europe/Berlin] PHP Notice:  Undefined index: fileToUpload in /var/www/html/gestione/gestione_domande/action_editQuestion.php on line 64
+[08-Feb-2020 10:11:24 Europe/Berlin] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /var/www/html/gestione/gestione_domande/action_editQuestion.php on line 85
+[08-Feb-2020 10:11:24 Europe/Berlin] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /var/www/html/gestione/gestione_domande/action_editQuestion.php on line 86
+[08-Feb-2020 10:13:04 Europe/Berlin] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /var/www/html/gestione/gestione_domande/action_editQuestion.php on line 85
+[08-Feb-2020 10:13:04 Europe/Berlin] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /var/www/html/gestione/gestione_domande/action_editQuestion.php on line 86
+[08-Feb-2020 10:15:51 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[08-Feb-2020 10:15:51 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[08-Feb-2020 10:17:51 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 10:19:43 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[08-Feb-2020 10:19:43 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[08-Feb-2020 10:19:43 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[08-Feb-2020 10:19:43 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[08-Feb-2020 10:20:03 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[08-Feb-2020 10:20:03 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[08-Feb-2020 10:20:03 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[08-Feb-2020 10:20:03 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[08-Feb-2020 10:21:57 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 10:23:47 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 10:24:17 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[08-Feb-2020 10:24:17 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[08-Feb-2020 10:26:45 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[08-Feb-2020 10:26:45 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[08-Feb-2020 10:31:10 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 10:38:33 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[08-Feb-2020 10:38:33 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[08-Feb-2020 10:40:59 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[08-Feb-2020 10:40:59 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[08-Feb-2020 10:44:50 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[08-Feb-2020 10:44:50 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[08-Feb-2020 10:50:29 Europe/Berlin] PHP Notice:  Undefined index: id in /var/www/html/gestione/gestione_domande/action_editQuestion.php on line 16
+[08-Feb-2020 10:52:00 Europe/Berlin] PHP Notice:  Undefined index: fileToUpload in /var/www/html/gestione/gestione_domande/action_editQuestion.php on line 64
+[08-Feb-2020 11:30:06 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 11:30:22 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[08-Feb-2020 11:31:02 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 11:31:06 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[08-Feb-2020 11:31:08 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[08-Feb-2020 11:31:12 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[08-Feb-2020 11:31:37 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[08-Feb-2020 13:30:16 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 15:45:49 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[08-Feb-2020 20:52:26 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[09-Feb-2020 17:13:13 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[09-Feb-2020 17:14:27 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[09-Feb-2020 17:36:15 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[09-Feb-2020 17:41:43 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[10-Feb-2020 06:37:56 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[10-Feb-2020 06:38:56 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[10-Feb-2020 06:40:43 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[10-Feb-2020 10:00:58 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[11-Feb-2020 12:22:52 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[11-Feb-2020 13:00:31 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[11-Feb-2020 13:41:23 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[11-Feb-2020 13:42:47 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[11-Feb-2020 13:47:53 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[11-Feb-2020 17:33:42 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[11-Feb-2020 17:46:57 Europe/Berlin] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[11-Feb-2020 17:46:57 Europe/Berlin] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[11-Feb-2020 18:13:24 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[11-Feb-2020 18:13:38 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[11-Feb-2020 18:13:38 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[11-Feb-2020 18:13:38 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[11-Feb-2020 18:13:38 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[11-Feb-2020 18:14:24 Europe/Rome] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[11-Feb-2020 18:14:24 Europe/Rome] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[11-Feb-2020 18:17:16 Europe/Rome] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[11-Feb-2020 18:17:16 Europe/Rome] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[11-Feb-2020 18:17:46 Europe/Rome] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[11-Feb-2020 18:17:46 Europe/Rome] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[11-Feb-2020 18:19:28 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[11-Feb-2020 18:19:28 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[11-Feb-2020 18:19:28 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[11-Feb-2020 18:19:28 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[11-Feb-2020 18:23:02 Europe/Rome] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[11-Feb-2020 18:23:02 Europe/Rome] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[11-Feb-2020 18:23:10 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[11-Feb-2020 18:23:10 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[11-Feb-2020 18:23:10 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[11-Feb-2020 18:23:10 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[11-Feb-2020 20:35:05 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[11-Feb-2020 20:36:03 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[11-Feb-2020 21:20:50 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[11-Feb-2020 21:25:31 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[11-Feb-2020 21:28:03 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 28
+[11-Feb-2020 21:31:58 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 30
+[11-Feb-2020 21:37:54 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 21:39:17 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 21:40:06 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 21:40:20 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 21:41:00 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 21:42:48 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 21:43:16 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 21:47:04 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 21:53:48 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 21:55:56 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 21:58:26 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 21:59:19 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 22:00:07 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 22:02:23 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 22:06:38 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 22:08:11 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 22:09:30 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[11-Feb-2020 22:10:08 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 10:46:17 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 10:50:05 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 10:50:10 Europe/Berlin] PHP Notice:  Undefined variable: user in /var/www/html/login/verifica/action_verifica.php on line 94
+[13-Feb-2020 10:50:22 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 10:51:47 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 10:52:45 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 10:56:56 Europe/Berlin] PHP Notice:  Undefined variable: email_2 in /var/www/html/gestione/gestione_studenti/action_addStudent.php on line 27
+[13-Feb-2020 10:56:56 Europe/Berlin] PHP Notice:  Undefined variable: nomeDocente in /var/www/html/gestione/gestione_studenti/action_addStudent.php on line 27
+[13-Feb-2020 11:11:05 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 11:35:21 Europe/Berlin] PHP Notice:  Undefined index: idScuola in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 14
+[13-Feb-2020 11:35:56 Europe/Berlin] PHP Notice:  Undefined index: idScuola in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 14
+[13-Feb-2020 11:36:17 Europe/Berlin] PHP Notice:  Undefined index: idScuola in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 14
+[13-Feb-2020 11:42:35 Europe/Berlin] PHP Notice:  Undefined index: idScuola in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 14
+[13-Feb-2020 11:43:06 Europe/Berlin] PHP Notice:  Undefined index: idScuola in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 14
+[13-Feb-2020 11:43:19 Europe/Berlin] PHP Notice:  Undefined index: idScuola in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 14
+[13-Feb-2020 11:43:51 Europe/Berlin] PHP Notice:  Undefined index: idScuola in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 14
+[13-Feb-2020 11:43:51 Europe/Berlin] PHP Notice:  Undefined variable: docente in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 20
+[13-Feb-2020 11:44:02 Europe/Berlin] PHP Notice:  Undefined index: idScuola in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 14
+[13-Feb-2020 11:44:02 Europe/Berlin] PHP Notice:  Undefined variable: docente in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 20
+[13-Feb-2020 11:44:58 Europe/Berlin] PHP Notice:  Undefined index: idScuola in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 14
+[13-Feb-2020 11:44:58 Europe/Berlin] PHP Notice:  Undefined variable: docente in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 20
+[13-Feb-2020 11:45:10 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 11:45:44 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[13-Feb-2020 11:46:08 Europe/Berlin] PHP Notice:  Undefined variable: docente in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 20
+[13-Feb-2020 11:47:11 Europe/Berlin] PHP Notice:  Undefined index: username in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 10
+[13-Feb-2020 11:47:11 Europe/Berlin] PHP Notice:  Undefined index: password in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 11
+[13-Feb-2020 11:47:11 Europe/Berlin] PHP Notice:  Undefined index: email in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 12
+[13-Feb-2020 11:47:11 Europe/Berlin] PHP Notice:  Undefined index: email2 in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 13
+[13-Feb-2020 11:47:11 Europe/Berlin] PHP Notice:  Undefined index: scuola in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 14
+[13-Feb-2020 11:47:11 Europe/Berlin] PHP Notice:  Undefined index: docente in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 15
+[13-Feb-2020 11:47:11 Europe/Berlin] PHP Notice:  Undefined index: id in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 16
+[13-Feb-2020 11:47:11 Europe/Berlin] PHP Notice:  Undefined variable: docente in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 20
+[13-Feb-2020 11:55:27 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 14:50:39 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 16:01:52 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 16:02:00 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 16:05:04 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 16:16:45 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 16:17:49 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 16:18:32 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 16:19:35 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 16:21:22 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 16:22:26 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 16:24:04 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 16:30:01 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 16:35:52 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 16:36:14 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 16:36:25 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 17:44:14 Europe/Berlin] PHP Notice:  Undefined index: email in /var/www/html/login/action_login.php on line 65
+[13-Feb-2020 17:44:14 Europe/Berlin] PHP Notice:  Undefined index: email in /var/www/html/login/action_login.php on line 67
+[13-Feb-2020 17:44:14 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 18:00:26 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 18:04:26 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[13-Feb-2020 18:05:34 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[13-Feb-2020 18:32:32 Europe/Berlin] PHP Notice:  Undefined variable: id in /var/www/html/gestione/gestione_scuole/action_editSchool.php on line 21
+[13-Feb-2020 18:32:48 Europe/Berlin] PHP Notice:  Undefined variable: id in /var/www/html/gestione/gestione_scuole/action_editSchool.php on line 21
+[13-Feb-2020 18:57:31 Europe/Berlin] PHP Notice:  Undefined variable: email_2 in /var/www/html/gestione/gestione_studenti/action_addStudent.php on line 29
+[13-Feb-2020 19:41:36 Europe/Berlin] PHP Notice:  Undefined index: username in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 10
+[13-Feb-2020 19:41:36 Europe/Berlin] PHP Notice:  Undefined index: password in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 11
+[13-Feb-2020 19:41:36 Europe/Berlin] PHP Notice:  Undefined index: email in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 12
+[13-Feb-2020 19:41:36 Europe/Berlin] PHP Notice:  Undefined index: email2 in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 13
+[13-Feb-2020 19:41:36 Europe/Berlin] PHP Notice:  Undefined index: cod_meccanografico in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 14
+[13-Feb-2020 19:41:36 Europe/Berlin] PHP Notice:  Undefined index: docente in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 15
+[13-Feb-2020 19:41:36 Europe/Berlin] PHP Notice:  Undefined index: id in /var/www/html/gestione/gestione_studenti/action_editStudent.php on line 16
+[14-Feb-2020 12:01:03 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[14-Feb-2020 12:09:21 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[14-Feb-2020 13:04:33 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[14-Feb-2020 13:07:24 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[14-Feb-2020 13:20:37 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[14-Feb-2020 13:26:12 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[14-Feb-2020 13:46:43 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[14-Feb-2020 13:46:46 Europe/Berlin] PHP Notice:  Undefined variable: user in /var/www/html/login/verifica/action_verifica.php on line 94
+[14-Feb-2020 16:25:12 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[14-Feb-2020 16:25:50 Europe/Berlin] PHP Notice:  Undefined variable: user in /var/www/html/login/verifica/action_verifica.php on line 94
+[14-Feb-2020 18:07:44 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[14-Feb-2020 18:23:55 Europe/Berlin] PHP Notice:  Undefined variable: id in /var/www/html/gestione/gestione_scuole/action_editSchool.php on line 21
+[14-Feb-2020 18:25:42 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[14-Feb-2020 18:58:57 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[14-Feb-2020 19:01:28 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[14-Feb-2020 19:30:51 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[14-Feb-2020 19:30:52 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/dns.jpg): No such file or directory in /var/www/html/gestione/gestione_domande/action_editQuestion.php on line 26
+[14-Feb-2020 19:30:59 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/dns.jpg): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[14-Feb-2020 19:44:20 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[14-Feb-2020 19:44:21 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[14-Feb-2020 19:44:38 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 126
+[14-Feb-2020 19:47:11 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 133
+[14-Feb-2020 19:47:23 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 133
+[14-Feb-2020 19:47:38 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 133
+[14-Feb-2020 19:55:08 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 133
+[14-Feb-2020 19:55:33 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[14-Feb-2020 19:55:35 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[14-Feb-2020 21:39:04 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 08:19:52 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 08:22:37 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/dns.jpg): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[15-Feb-2020 08:22:41 Europe/Berlin] PHP Warning:  unlink(../../immagini_quiz/firewall.jpg): No such file or directory in /var/www/html/gestione/gestione_domande/action_deleteQuestion.php on line 17
+[15-Feb-2020 08:28:36 Europe/Rome] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[15-Feb-2020 08:28:36 Europe/Rome] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[15-Feb-2020 08:29:24 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[15-Feb-2020 08:29:50 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[15-Feb-2020 08:33:36 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[15-Feb-2020 08:33:36 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[15-Feb-2020 08:33:36 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[15-Feb-2020 08:33:36 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[15-Feb-2020 08:33:44 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[15-Feb-2020 08:33:44 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[15-Feb-2020 08:33:44 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[15-Feb-2020 08:33:44 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[15-Feb-2020 08:46:41 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 09:44:34 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 09:54:32 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 09:56:14 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[15-Feb-2020 09:57:17 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[15-Feb-2020 10:04:48 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[15-Feb-2020 16:19:36 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 16:21:22 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[15-Feb-2020 16:21:30 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[15-Feb-2020 16:21:59 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 16:26:06 Europe/Rome] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[15-Feb-2020 16:26:06 Europe/Rome] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[15-Feb-2020 16:26:48 Europe/Rome] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[15-Feb-2020 16:26:48 Europe/Rome] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[15-Feb-2020 16:27:05 Europe/Rome] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[15-Feb-2020 16:27:05 Europe/Rome] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[15-Feb-2020 16:47:14 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[15-Feb-2020 16:53:42 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 16:58:49 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 17:21:18 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 17:22:41 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[15-Feb-2020 17:22:49 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[15-Feb-2020 17:31:58 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 17:57:36 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[15-Feb-2020 17:57:36 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[15-Feb-2020 17:57:36 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[15-Feb-2020 17:57:36 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[15-Feb-2020 18:04:35 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[15-Feb-2020 18:04:35 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[15-Feb-2020 18:04:35 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[15-Feb-2020 18:04:35 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[15-Feb-2020 18:06:06 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[15-Feb-2020 18:06:06 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[15-Feb-2020 18:06:06 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[15-Feb-2020 18:06:06 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[15-Feb-2020 18:52:29 Europe/Berlin] PHP Notice:  Undefined index: username in /var/www/html/login/action_login.php on line 20
+[15-Feb-2020 18:52:29 Europe/Berlin] PHP Notice:  Undefined index: password in /var/www/html/login/action_login.php on line 22
+[15-Feb-2020 19:03:56 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 19:04:30 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[15-Feb-2020 19:04:30 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[15-Feb-2020 19:04:30 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[15-Feb-2020 19:04:30 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[15-Feb-2020 19:04:41 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[15-Feb-2020 19:04:41 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[15-Feb-2020 19:04:41 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[15-Feb-2020 19:04:41 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[15-Feb-2020 19:14:41 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[15-Feb-2020 19:16:35 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[15-Feb-2020 19:16:50 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[15-Feb-2020 19:16:50 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[15-Feb-2020 19:16:50 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[15-Feb-2020 19:16:50 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[15-Feb-2020 19:17:19 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[15-Feb-2020 19:17:19 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[15-Feb-2020 19:17:19 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[15-Feb-2020 19:17:19 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[15-Feb-2020 19:18:23 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[15-Feb-2020 19:18:23 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[15-Feb-2020 19:18:23 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[15-Feb-2020 19:18:23 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[15-Feb-2020 19:19:10 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 19:31:30 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 19:31:45 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 19:31:49 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[15-Feb-2020 19:32:08 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[15-Feb-2020 19:33:04 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[15-Feb-2020 19:37:27 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[15-Feb-2020 19:37:27 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[15-Feb-2020 19:37:27 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[15-Feb-2020 19:37:27 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[15-Feb-2020 19:38:00 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[15-Feb-2020 19:38:00 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[15-Feb-2020 19:38:00 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[15-Feb-2020 19:38:00 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[15-Feb-2020 22:46:57 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 22:47:31 Europe/Berlin] PHP Notice:  Undefined variable: user in /var/www/html/login/verifica/action_verifica.php on line 94
+[15-Feb-2020 22:47:38 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[15-Feb-2020 22:48:15 Europe/Berlin] PHP Notice:  Undefined variable: user in /var/www/html/login/verifica/action_verifica.php on line 94
+[15-Feb-2020 22:48:22 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[16-Feb-2020 01:35:10 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[16-Feb-2020 02:13:54 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[16-Feb-2020 02:40:00 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[16-Feb-2020 02:40:00 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[16-Feb-2020 02:40:00 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[16-Feb-2020 02:40:00 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[16-Feb-2020 02:41:07 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[16-Feb-2020 02:41:07 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[16-Feb-2020 02:41:07 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[16-Feb-2020 02:41:07 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[16-Feb-2020 02:44:08 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[16-Feb-2020 02:44:08 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[16-Feb-2020 02:44:08 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[16-Feb-2020 02:44:08 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[16-Feb-2020 02:56:02 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[16-Feb-2020 02:56:02 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[16-Feb-2020 02:56:02 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[16-Feb-2020 02:56:02 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[16-Feb-2020 08:56:16 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[16-Feb-2020 09:47:51 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[16-Feb-2020 09:47:51 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[16-Feb-2020 09:47:51 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[16-Feb-2020 09:47:51 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[16-Feb-2020 10:48:22 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[16-Feb-2020 12:05:23 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[16-Feb-2020 12:08:06 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[16-Feb-2020 12:45:52 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[16-Feb-2020 12:49:35 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[16-Feb-2020 14:22:31 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[16-Feb-2020 15:19:35 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[16-Feb-2020 15:22:07 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[16-Feb-2020 16:58:27 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[16-Feb-2020 18:14:14 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[16-Feb-2020 18:15:52 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[16-Feb-2020 18:19:55 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[16-Feb-2020 18:28:35 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[16-Feb-2020 18:29:42 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[16-Feb-2020 18:30:34 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[16-Feb-2020 18:31:08 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[16-Feb-2020 18:45:50 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[16-Feb-2020 18:46:12 Europe/Berlin] PHP Notice:  Undefined variable: user in /var/www/html/login/verifica/action_verifica.php on line 94
+[16-Feb-2020 18:46:18 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[16-Feb-2020 18:47:42 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[16-Feb-2020 19:12:30 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[16-Feb-2020 19:12:53 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[16-Feb-2020 19:15:48 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[16-Feb-2020 19:16:22 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[17-Feb-2020 08:14:32 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[17-Feb-2020 08:15:58 Europe/Berlin] PHP Notice:  Undefined variable: id in /var/www/html/gestione/gestione_scuole/action_editSchool.php on line 21
+[17-Feb-2020 08:17:03 Europe/Berlin] PHP Notice:  Undefined variable: id in /var/www/html/gestione/gestione_scuole/action_editSchool.php on line 21
+[17-Feb-2020 08:18:16 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[17-Feb-2020 08:19:37 Europe/Rome] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[17-Feb-2020 08:19:37 Europe/Rome] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[17-Feb-2020 09:49:01 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[17-Feb-2020 09:49:20 Europe/Berlin] PHP Notice:  Undefined variable: user in /var/www/html/login/verifica/action_verifica.php on line 94
+[17-Feb-2020 09:49:26 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[17-Feb-2020 09:52:43 Europe/Rome] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[17-Feb-2020 09:52:43 Europe/Rome] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[17-Feb-2020 10:11:22 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[17-Feb-2020 10:26:04 Europe/Berlin] PHP Notice:  Undefined variable: id in /var/www/html/gestione/impostazioni_account/action_editUser.php on line 23
+[17-Feb-2020 10:26:04 Europe/Berlin] PHP Notice:  Undefined property: mysqli_result::$error in /var/www/html/gestione/impostazioni_account/action_editUser.php on line 23
+[17-Feb-2020 10:26:04 Europe/Berlin] PHP Notice:  Undefined property: mysqli_result::$error in /var/www/html/gestione/impostazioni_account/action_editUser.php on line 24
+[17-Feb-2020 11:04:34 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[17-Feb-2020 11:29:17 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[17-Feb-2020 11:31:42 Europe/Rome] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[17-Feb-2020 11:31:42 Europe/Rome] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[17-Feb-2020 11:35:01 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[17-Feb-2020 11:37:23 Europe/Rome] PHP Deprecated:  Non-static method Logger::getLog() should not be called statically in /var/www/html/logger.php on line 18
+[17-Feb-2020 11:37:23 Europe/Rome] PHP Deprecated:  Non-static method Logger::save() should not be called statically in /var/www/html/logger.php on line 23
+[17-Feb-2020 11:41:54 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[17-Feb-2020 12:38:33 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[17-Feb-2020 12:40:23 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[17-Feb-2020 12:41:36 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[17-Feb-2020 12:41:36 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[17-Feb-2020 12:41:36 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[17-Feb-2020 12:41:36 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[17-Feb-2020 12:42:34 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[17-Feb-2020 12:45:36 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[17-Feb-2020 12:45:51 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[17-Feb-2020 15:31:33 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 00:32:03 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 00:33:26 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[18-Feb-2020 12:02:06 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 12:33:38 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 12:35:59 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[18-Feb-2020 12:37:24 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[18-Feb-2020 13:59:13 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 14:38:46 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 14:39:48 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[18-Feb-2020 14:59:16 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 15:39:31 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 15:40:11 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[18-Feb-2020 15:40:31 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 15:42:41 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[18-Feb-2020 17:47:20 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 17:51:01 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[18-Feb-2020 17:52:04 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 18:02:27 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[18-Feb-2020 18:06:12 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 18:13:43 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 18:14:12 Europe/Berlin] PHP Notice:  Undefined variable: user in /var/www/html/login/verifica/action_verifica.php on line 94
+[18-Feb-2020 18:14:17 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 18:15:27 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[18-Feb-2020 18:20:29 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 18:30:21 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[18-Feb-2020 18:30:21 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[18-Feb-2020 18:30:21 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[18-Feb-2020 18:30:21 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[18-Feb-2020 18:30:39 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[18-Feb-2020 18:30:39 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[18-Feb-2020 18:30:39 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[18-Feb-2020 18:30:39 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[18-Feb-2020 18:30:52 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 18:32:47 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[18-Feb-2020 18:35:28 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 18:36:28 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[18-Feb-2020 18:36:28 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[18-Feb-2020 18:36:28 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[18-Feb-2020 18:36:28 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[18-Feb-2020 18:36:58 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[18-Feb-2020 18:38:02 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[18-Feb-2020 18:39:01 Europe/Berlin] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /var/www/html/logger.php on line 21
+[18-Feb-2020 18:39:01 Europe/Berlin] PHP Warning:  fopen(../../log.json): failed to open stream: Permission denied in /var/www/html/logger.php on line 28
+[18-Feb-2020 18:39:01 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 30
+[18-Feb-2020 18:39:01 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/logger.php on line 31
+[18-Feb-2020 18:40:03 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[18-Feb-2020 18:42:32 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 18:42:35 Europe/Berlin] PHP Notice:  Undefined variable: user in /var/www/html/login/verifica/action_verifica.php on line 94
+[18-Feb-2020 18:46:33 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[18-Feb-2020 18:51:35 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[18-Feb-2020 19:19:15 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[18-Feb-2020 20:00:04 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 20:02:56 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 20:10:40 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 20:40:30 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[18-Feb-2020 21:38:27 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 21:39:40 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[18-Feb-2020 21:49:10 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Feb-2020 23:18:17 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[18-Feb-2020 23:18:38 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[18-Feb-2020 23:47:37 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[19-Feb-2020 08:59:01 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/Logout/index.php on line 20
+[19-Feb-2020 12:15:22 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[19-Feb-2020 12:22:35 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[19-Feb-2020 12:25:25 Europe/Berlin] PHP Notice:  Undefined index: logged in /var/www/html/gestione/controllo_accessi/index.php on line 70
+[19-Feb-2020 12:25:25 Europe/Berlin] PHP Notice:  Undefined index: qruser in /var/www/html/gestione/controllo_accessi/index.php on line 73
+[19-Feb-2020 12:25:25 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/gestione/controllo_accessi/index.php on line 134
+[19-Feb-2020 12:30:31 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[19-Feb-2020 12:57:18 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[19-Feb-2020 13:07:22 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Apr-2020 19:21:57 Europe/Berlin] PHP Notice:  Undefined variable: mypass in /var/www/html/login/verifica/invio_email.php on line 29
+[18-Apr-2020 19:22:05 Europe/Berlin] PHP Notice:  Undefined variable: id in /var/www/html/gestione/impostazioni_account/action_editUser.php on line 20
+[18-Apr-2020 19:23:22 Europe/Berlin] PHP Notice:  Undefined variable: id in /var/www/html/gestione/impostazioni_account/action_editUser.php on line 20

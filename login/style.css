@@ -1,0 +1,57 @@
+body, html {
+	height: 100%;
+	font-family: 'Nunito', sans-serif;
+	background-image: url('img/wallpaper.jpg');
+	background-size: cover;
+}
+
+.container-fluid{
+	height: 100%;
+	position: relative;
+}
+
+.loginform{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 320px;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.textbox{
+	margin-bottom: 20px;
+	width: 100%;
+	border: none;
+	border-radius: 20px;
+	padding: 8px;
+	background-color: #EFEFEF;
+}
+
+.btn{
+	border: none;
+	border-radius: 20px;
+	padding: 8px;
+	width: 50%;
+}
+
+.returnhome{
+	position: absolute;
+	top: 8px;
+	left: 16px;
+}
+
+.btn{color:white;}
+
+.photo-credits{
+	position: absolute;
+	bottom: 0;
+	left: 16px;
+}
+
+/* nei dispositivi mobili il quadro nello sfondo sparice */
+@media screen and (max-width: 530px){
+    body{
+        background-position: center;
+    }
+}

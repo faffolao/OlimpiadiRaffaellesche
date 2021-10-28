@@ -1,0 +1,136 @@
+
+body{
+	background-image: url("wallpaper.jpg");
+        background-size: cover;
+        background-repeat:no-repeat;
+	font-family: Nunito, sans-serif;
+	color: white;
+	text-align:center;
+}
+
+.timerbox{
+        position: absolute;
+        top: 25%;
+        right: 50px;
+	padding: 20px;
+        font-size: 105px;
+	font-weight: bold;
+}
+
+.questionbox{
+        margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background-color: rgba(251, 235, 238, 0.65);
+	max-width: 60%;
+	color: black;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* gestione responsività immagine domanda */
+.questionbox img{
+	width: 70%;
+	height: auto;
+	cursor: pointer;
+}
+
+/* pulsanti di risposta */
+.btn-answer{
+	width: 100%;
+	padding: 5px;
+	margin-top: 10px;
+	white-space: normal;
+	text-overflow: clip;
+    overflow: visible;
+	border-bottom: 1px solid black;
+	text-align: left;
+	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn-blue-color {background-color: #008CBA;} /* Blue */
+
+.btn-answer:hover {
+    background-color: burlywood;
+}
+
+/* per far stare dentro il testo del pulsante */
+.buttontext{
+    display: block;
+}
+
+.logobox{
+	padding: 25px;
+}
+/* modale immagine */
+ .modal {
+	display: none; /* Hidden by default */
+	position: fixed; /* Stay in place */
+	z-index: 1; /* Sit on top */
+	padding-top: 100px; /* Location of the box */
+	left: 0;
+	top: 0;
+	width: 100%; /* Full width */
+	height: 100%; /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	background-color: rgb(0,0,0); /* Fallback color */
+	background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+.modal-content {
+	margin: auto;
+	display: block;
+	width: 80%;
+	max-width: 80%;
+}
+.close {
+	position: absolute;
+	top: 15px;
+	right: 35px;
+	color: #f1f1f1;
+	font-size: 40px;
+	font-weight: bold;
+	transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+	color: #bbb;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+/* gestione responsive */
+@media screen and (max-width: 700px){
+	.modal-content {
+		width: 100%;
+	}
+} 
+
+@media screen and (max-width: 570px){
+	.questionbox{
+		max-width: 90%;
+	}
+}
+
+@media screen and (max-width: 1000px){
+    .timerbox{right: 20px;}
+}
+
+@media screen and (max-width: 850px){
+    .timerbox{
+        top: 5px;
+        right: 0;
+        width: 100%;
+        font-size: 40px;
+    }
+    
+    .questionbox{margin-top: 90px;}
+}
+
+@media screen and (min-height: 716px){
+    body{
+        background-size: auto 200%;
+    }
+}

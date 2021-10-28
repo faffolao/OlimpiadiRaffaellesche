@@ -1,0 +1,22 @@
+[04-Feb-2020 21:16:21 Europe/Berlin] PHP Notice:  Undefined variable: row in /var/www/html/gestione/avanzamento_quiz/index.php on line 133
+[04-Feb-2020 21:16:21 Europe/Berlin] PHP Notice:  Undefined variable: row in /var/www/html/gestione/avanzamento_quiz/index.php on line 133
+[04-Feb-2020 21:16:21 Europe/Berlin] PHP Notice:  Undefined variable: row in /var/www/html/gestione/avanzamento_quiz/index.php on line 133
+[04-Feb-2020 21:16:21 Europe/Berlin] PHP Notice:  Undefined variable: row in /var/www/html/gestione/avanzamento_quiz/index.php on line 133
+[04-Feb-2020 21:17:34 Europe/Berlin] PHP Notice:  Undefined variable: row in /var/www/html/gestione/avanzamento_quiz/index.php on line 133
+[04-Feb-2020 21:17:34 Europe/Berlin] PHP Notice:  Undefined variable: row in /var/www/html/gestione/avanzamento_quiz/index.php on line 133
+[04-Feb-2020 21:17:34 Europe/Berlin] PHP Notice:  Undefined variable: row in /var/www/html/gestione/avanzamento_quiz/index.php on line 133
+[04-Feb-2020 21:17:34 Europe/Berlin] PHP Notice:  Undefined variable: row in /var/www/html/gestione/avanzamento_quiz/index.php on line 133
+[04-Feb-2020 21:18:07 Europe/Berlin] PHP Notice:  Undefined variable: row in /var/www/html/gestione/avanzamento_quiz/index.php on line 133
+[04-Feb-2020 21:18:07 Europe/Berlin] PHP Notice:  Undefined variable: row in /var/www/html/gestione/avanzamento_quiz/index.php on line 133
+[04-Feb-2020 21:18:07 Europe/Berlin] PHP Notice:  Undefined variable: row in /var/www/html/gestione/avanzamento_quiz/index.php on line 133
+[04-Feb-2020 21:18:07 Europe/Berlin] PHP Notice:  Undefined variable: row in /var/www/html/gestione/avanzamento_quiz/index.php on line 133
+[04-Feb-2020 21:18:22 Europe/Berlin] PHP Notice:  Undefined variable: row in /var/www/html/gestione/avanzamento_quiz/index.php on line 133
+[04-Feb-2020 21:18:22 Europe/Berlin] PHP Notice:  Undefined variable: row in /var/www/html/gestione/avanzamento_quiz/index.php on line 133
+[04-Feb-2020 21:18:22 Europe/Berlin] PHP Notice:  Undefined variable: row in /var/www/html/gestione/avanzamento_quiz/index.php on line 133
+[04-Feb-2020 21:18:22 Europe/Berlin] PHP Notice:  Undefined variable: row in /var/www/html/gestione/avanzamento_quiz/index.php on line 133
+[18-Apr-2020 19:21:19 Europe/Berlin] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/gestione/gestione_studenti/index.php on line 220
+[18-Apr-2020 19:21:19 Europe/Berlin] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/gestione/gestione_studenti/index.php on line 255
+[18-Apr-2020 19:21:25 Europe/Berlin] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/gestione/gestione_studenti/index.php on line 220
+[18-Apr-2020 19:21:25 Europe/Berlin] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/gestione/gestione_studenti/index.php on line 255
+[18-Apr-2020 19:21:27 Europe/Berlin] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/gestione/gestione_studenti/index.php on line 220
+[18-Apr-2020 19:21:27 Europe/Berlin] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/gestione/gestione_studenti/index.php on line 255

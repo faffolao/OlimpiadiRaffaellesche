@@ -1,0 +1,64 @@
+/* Stile dei bottoni nella Homepage*/
+.bottone{
+	border: none;
+	font-family: inherit;
+	font-size: inherit;
+	color: inherit;
+	background: none;
+	cursor: pointer;
+	padding: 25px 70px;
+	display: inline-block;
+	letter-spacing: 1px;
+	font-weight: 700;
+	outline: none;
+	position: relative;
+	-webkit-transition: all 0.1s;
+	-moz-transition: all 0.1s;
+	transition: all 0.1s;
+}
+
+.bottone:after {
+	color: white;
+	content: '';
+	position: absolute;
+	z-index: -1;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.bottone {
+	color: white;
+	overflow: hidden;
+}
+
+.bottone:after {
+	color: white;
+	width: 100%;
+	height: 0;
+	top: 50%;
+	left: 50%;
+	background: #fff;
+	opacity: 0;
+	-webkit-transform: translateX(-50%) translateY(-50%) rotate(45deg);
+	-moz-transform: translateX(-50%) translateY(-50%) rotate(45deg);
+	-ms-transform: translateX(-50%) translateY(-50%) rotate(45deg);
+	transform: translateX(-50%) translateY(-50%) rotate(45deg);
+}
+
+.bottone:hover, .bottone:active {
+	color: white;
+	color: #435A6B;
+}
+
+.bottone:hover:after {
+	color: white;
+	height: 100%;
+	opacity: 1;
+}
+
+.bottone:active:after {
+	color: white;
+	height: 600%;
+	opacity: 1;
+}

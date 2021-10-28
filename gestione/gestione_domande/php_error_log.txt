@@ -1,0 +1,12 @@
+[15-Feb-2020 17:54:11 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'raffaello'@'localhost' (using password: YES) in /var/www/html/db_con.php on line 12
+[15-Feb-2020 17:54:16 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'raffaello'@'localhost' (using password: YES) in /var/www/html/db_con.php on line 12
+[18-Apr-2020 17:34:55 Europe/Berlin] PHP Warning:  move_uploaded_file(prova.zip): failed to open stream: Permission denied in /var/www/html/gestione/gestione_domande/action_importQuestions.php on line 49
+[18-Apr-2020 17:34:55 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcFqvBY' to 'prova.zip' in /var/www/html/gestione/gestione_domande/action_importQuestions.php on line 49
+[18-Apr-2020 18:51:29 Europe/Berlin] PHP Warning:  chmod(): No such file or directory in /var/www/html/gestione/gestione_domande/action_importQuestions.php on line 46
+[18-Apr-2020 18:54:02 Europe/Berlin] PHP Warning:  chmod(): No such file or directory in /var/www/html/gestione/gestione_domande/action_importQuestions.php on line 45
+[18-Apr-2020 18:57:14 Europe/Berlin] PHP Warning:  chmod(): No such file or directory in /var/www/html/gestione/gestione_domande/action_importQuestions.php on line 45
+[18-Apr-2020 18:59:57 Europe/Berlin] PHP Warning:  chmod(): No such file or directory in /var/www/html/gestione/gestione_domande/action_importQuestions.php on line 45
+[18-Apr-2020 19:02:41 Europe/Berlin] PHP Warning:  chmod(): No such file or directory in /var/www/html/gestione/gestione_domande/action_importQuestions.php on line 45
+[18-Apr-2020 19:05:09 Europe/Berlin] PHP Warning:  chmod(): No such file or directory in /var/www/html/gestione/gestione_domande/action_importQuestions.php on line 45
+[29-Apr-2020 21:10:11 Europe/Berlin] PHP Notice:  Undefined index: zipfile in /var/www/html/gestione/gestione_domande/action_importQuestions.php on line 11
+[29-Apr-2020 21:10:11 Europe/Berlin] PHP Notice:  Undefined index: csvfile in /var/www/html/gestione/gestione_domande/action_importQuestions.php on line 12

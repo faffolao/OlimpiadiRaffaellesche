@@ -1,0 +1,48 @@
+/* 
+    Created on : 30-gen-2020, 16.13.58
+    Author     : Federico
+*/
+@font-face{
+    font-family: Butler;
+    src: url("../res/Butler.woff");
+}
+
+html,body{height: 100%;}
+body{
+    background-image: url("wallpaper.jpg");
+    background-size: cover;
+    font-family: Nunito, sans-serif;
+}
+.title{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: block;
+    width: 100%;
+}
+
+.text1{
+    font-family: Butler, sans-serif;
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.text2{
+    color: white;
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+@media screen and (max-width: 536px){
+    .text{
+        font-size: 35px;
+    }
+    
+    .text2{font-size: 15px;}
+}

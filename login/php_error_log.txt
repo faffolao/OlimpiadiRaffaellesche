@@ -1,0 +1,2 @@
+[13-Feb-2020 17:33:46 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'raffaello'@'localhost' (using password: YES) in /var/www/html/db_con.php on line 12
+[13-Feb-2020 17:43:21 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'raffaello'@'localhost' (using password: YES) in /var/www/html/db_con.php on line 12

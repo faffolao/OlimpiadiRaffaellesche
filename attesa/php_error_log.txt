@@ -1,0 +1,16 @@
+[03-Feb-2020 15:06:17 UTC] PHP Notice:  Undefined variable: msg in /var/www/html/attesa/index.php on line 70
+[03-Feb-2020 15:06:17 UTC] PHP Notice:  Undefined variable: row in /var/www/html/attesa/index.php on line 72
+[03-Feb-2020 19:36:38 UTC] PHP Notice:  Undefined index: qruser in /var/www/html/attesa/index.php on line 48
+[04-Feb-2020 16:00:40 UTC] PHP Notice:  Undefined index: aperto in /var/www/html/attesa/index.php on line 10
+[04-Feb-2020 16:00:44 UTC] PHP Notice:  Undefined index: aperto in /var/www/html/attesa/index.php on line 10
+[04-Feb-2020 16:39:28 UTC] PHP Notice:  Undefined index: aperto in /var/www/html/attesa/index.php on line 10
+[04-Feb-2020 16:39:32 UTC] PHP Notice:  Undefined index: aperto in /var/www/html/attesa/index.php on line 10
+[04-Feb-2020 16:39:33 UTC] PHP Notice:  Undefined index: aperto in /var/www/html/attesa/index.php on line 10
+[04-Feb-2020 18:09:58 UTC] PHP Notice:  Undefined index: beta in /var/www/html/attesa/index.php on line 122
+[04-Feb-2020 18:10:23 UTC] PHP Notice:  Undefined index: beta in /var/www/html/attesa/index.php on line 122
+[04-Feb-2020 18:10:31 UTC] PHP Notice:  Undefined index: beta in /var/www/html/attesa/index.php on line 122
+[04-Feb-2020 18:10:45 UTC] PHP Notice:  Undefined index: beta in /var/www/html/attesa/index.php on line 122
+[04-Feb-2020 18:12:25 UTC] PHP Notice:  Undefined index: beta in /var/www/html/attesa/index.php on line 123
+[04-Feb-2020 18:38:01 UTC] PHP Notice:  Undefined index: qruser in /var/www/html/attesa/index.php on line 57
+[19-Feb-2020 13:21:52 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/attesa/index.php on line 17
+[19-Feb-2020 13:21:52 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/attesa/index.php on line 71

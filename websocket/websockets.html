@@ -1,0 +1,13 @@
+<html>
+<body>
+    <div id="root"></div>
+    <script>
+        var host = 'wss://olimpiadi-raffaellesche.itisurbino.edu.it:12345/websocket/SSLServer.java';
+        var socket = new WebSocket(host);
+        socket.send("prova");
+        socket.onmessage = function(e) {
+            document.getElementById('root').innerHTML = e.data;
+        };
+    </script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+/*@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');	/*importo il font*/
+/*@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');*/
+@import url('https://fonts.googleapis.com/css?family=Satisfy&display=swap');
+
+body {
+	/*background-color: black;*/
+	background-image: url("wallpaper.jpg");
+	/*background-position: center;*/
+	background-repeat: no-repeat;
+	background-size: cover;	/*determino le regole che deve rispettare lo sfondo*/
+}
+
+.container {
+	overflow: hidden;	/*nascondo l'eventuale scrollbar che comparirebbe se il contenuto della pagina fosse troppo grande per lo schermo intero*/
+	font: 6vw/100vh "Satisfy";	
+	text-align: center;	
+	color: transparent;		/*parametri del testo*/
+}
+
+span {
+	display: inline-block;	/*non aggiunge un'interruzione dopo l'elemento, quindi può trovarsi accanto ad altri elementi*/
+	text-shadow: 0 0 0 whitesmoke;
+	animation: fumo 5s 3s both;	/*animazione*/
+}
+
+@keyframes fumo {
+	60% {
+		text-shadow: 0 0 40px whitesmoke;	/*arrivato al 60% dell'animazione, l'ombreggiatura del testo aumenta*/
+	}
+	to {	/*dopo il 60% dell'animazione, fino alla fine*/
+		transform:
+		translate3d(15rem,-8rem,0)	/*posiziona un elemento nello spazio 3D*/
+		rotate(-40deg)	/*ruota l'elemento di -40 gradi*/
+		skewX(70deg)	/*inclina l'elemento in direzione orizzontale sul piano 2D*/
+		scale(1.5);		/*ridimensiona l'elemento sul piano 2D*/
+		text-shadow: 0 0 20px whitesmoke;
+		opacity: 0;
+	}
+}
+
+@for $item from 1 through 21 {
+	span:nth-of-type(#{$item}){ 
+		animation-delay: #{(3 + ($item/10))}s; 
+	}
+}
+
+/*ridimensiona la pagina in base alla grandezza dello schermo, in questo caso se lo schermo è uguale o inferiore a 600px*/
+@media screen and (max-width:600px){
+	body{
+		background-size: cover;
+	}
+}

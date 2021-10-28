@@ -1,0 +1,21 @@
+body{
+	font-family: 'Nunito', sans-serif;
+	color: white;
+	background-color: #A01A1B;
+}
+.middle{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+form{text-align: center;}
+.btn{width: 60%;}
+img{
+	margin-bottom: 10px;
+}
+@media screen and (max-width: 536px){
+	.middle{
+		width: 85%;
+	}
+}
